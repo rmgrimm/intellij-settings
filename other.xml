@@ -91,6 +91,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://svn.wernerds.net/svn/routing-guide/" />
         <option value="http://svn.wernerds.net/svn/services/" />
         <option value="http://svn.wernerds.net/svn/services/trailer_lookup" />
         <option value="http://svn.wernerds.net/svn/services/rest_security" />
@@ -103,6 +104,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://svn.wernerds.net/svn/routing-guide/" />
         <option value="http://svn.wernerds.net/svn/services/" />
         <option value="http://svn.wernerds.net/svn/services/trailer_lookup" />
         <option value="http://svn.wernerds.net/svn/services/rest_security" />
