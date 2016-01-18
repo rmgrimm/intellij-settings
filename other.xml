@@ -91,6 +91,10 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://svn.wernerds.net/svn/services/" />
+        <option value="http://svn.wernerds.net/svn/services/trailer_lookup" />
+        <option value="http://svn.wernerds.net/svn/services/rest_security" />
+        <option value="http://svn.wernerds.net/svn/services/common_types" />
         <option value="http://svn.wernerds.net/svn/raikes" />
         <option value="http://svn.wernerds.net/svn/services/trailerinspection" />
         <option value="http://svn.wernerds.net/svn/services/app_version" />
@@ -99,6 +103,10 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://svn.wernerds.net/svn/services/" />
+        <option value="http://svn.wernerds.net/svn/services/trailer_lookup" />
+        <option value="http://svn.wernerds.net/svn/services/rest_security" />
+        <option value="http://svn.wernerds.net/svn/services/common_types" />
         <option value="http://svn.wernerds.net/svn/raikes" />
         <option value="http://svn.wernerds.net/svn/services/trailerinspection" />
         <option value="http://svn.wernerds.net/svn/services/app_version" />
