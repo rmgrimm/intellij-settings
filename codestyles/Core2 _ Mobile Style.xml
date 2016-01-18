@@ -1,0 +1,10 @@
+<code_scheme name="Core2 / Mobile Style">
+  <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1" />
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>
