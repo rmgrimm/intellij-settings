@@ -91,6 +91,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://svn.wernerds.net/svn/mobile/DriveWerner/" />
         <option value="http://svn.wernerds.net/svn/routing-guide/" />
         <option value="http://svn.wernerds.net/svn/services/" />
         <option value="http://svn.wernerds.net/svn/services/trailer_lookup" />
@@ -104,6 +105,8 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://svn.wernerds.net/svn/mobile/DriveWerner/" />
+        <option value="http://svn.wernerds.net/svn/mobile/DriveWerner/android/" />
         <option value="http://svn.wernerds.net/svn/routing-guide/" />
         <option value="http://svn.wernerds.net/svn/services/" />
         <option value="http://svn.wernerds.net/svn/services/trailer_lookup" />
