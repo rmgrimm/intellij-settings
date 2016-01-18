@@ -1,4 +1,17 @@
 <application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Mobile-Core2 Teams.xml" />
+  </component>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Core2 / Mobile Style" />
+  </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
@@ -66,5 +79,31 @@
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
+  </component>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="antlib:org.jacoco.ant" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://svn.wernerds.net/svn/raikes" />
+        <option value="http://svn.wernerds.net/svn/services/trailerinspection" />
+        <option value="http://svn.wernerds.net/svn/services/app_version" />
+        <option value="http://svn.wernerds.net/svn/mobile/TrailerInspection" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.wernerds.net/svn/raikes" />
+        <option value="http://svn.wernerds.net/svn/services/trailerinspection" />
+        <option value="http://svn.wernerds.net/svn/services/app_version" />
+        <option value="http://svn.wernerds.net/svn/mobile/TrailerInspection" />
+      </list>
+    </option>
   </component>
 </application>
