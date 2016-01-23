@@ -119,4 +119,17 @@
       </list>
     </option>
   </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://rgrimm@svn.wernerds.net/svn/mobile/DriverNews/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/WernerNews" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
