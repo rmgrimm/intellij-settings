@@ -10,8 +10,12 @@
           <option name="url" value="https://aedren@bitbucket.org/aedren/flashquiz.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://aedren@bitbucket.org/sasmita_pradhan/swipeabletabs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PersonalProjects/" />
+    <option name="cloneParentDir" value="$USER_HOME$/PersonalProjects/Sasmita" />
   </component>
 </application>
