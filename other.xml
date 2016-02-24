@@ -92,6 +92,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://svn.wernerds.net/svn/mobile/PushNotificationSample" />
         <option value="http://svn.wernerds.net/svn/middle_tier" />
         <option value="http://svn.wernerds.net/svn/mobile/DriverNews" />
         <option value="http://svn.wernerds.net/svn/mobile/DriveWerner/" />
@@ -108,6 +109,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://svn.wernerds.net/svn/mobile/PushNotificationSample" />
         <option value="http://svn.wernerds.net/svn/middle_tier" />
         <option value="http://svn.wernerds.net/svn/mobile/DriverNews" />
         <option value="http://svn.wernerds.net/svn/mobile/DriveWerner/" />
