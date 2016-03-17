@@ -93,6 +93,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://svn.wernerds.net/svn/mobile/smart_mobile" />
         <option value="http://svn.wernerds.net/svn/appdev/NET2.0/MobileDevelopment/MobileDataServices" />
         <option value="http://svn.wernerds.net/svn/services/gcm" />
         <option value="http://svn.wernerds.net/svn/mobile/PushNotificationSample" />
