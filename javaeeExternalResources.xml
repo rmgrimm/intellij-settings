@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="antlib:org.jacoco.ant" />
+  </component>
+</application>
