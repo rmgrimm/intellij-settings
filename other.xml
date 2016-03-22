@@ -2,16 +2,6 @@
   <component name="CodeStyleSchemesUIConfiguration">
     <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Mobile-Core2 Teams.xml" />
   </component>
-  <component name="CodeStyleSettingsManager">
-    <option name="PER_PROJECT_SETTINGS">
-      <value>
-        <XML>
-          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-        </XML>
-      </value>
-    </option>
-    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Core2 / Mobile Style" />
-  </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
