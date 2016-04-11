@@ -73,6 +73,13 @@
             </set>
           </value>
         </entry>
+        <entry key="http://svn.wernerds.net/svn/services/gcm/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/gcm-service" />
+            </set>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
