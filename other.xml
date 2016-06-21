@@ -12,7 +12,7 @@
     <JIRA shared="false" url="https://jira.wernerds.net">
       <option name="apiType" value="REST_2_0" />
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <password>dfe0df9adf9adfd9dfdfdfd2df9adfd8df82</password>
+      <password>dfe0df9adf9adfd9dfdfdfd2df9adfd8df83</password>
       <option name="jiraVersion" value="6.3.4" />
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
