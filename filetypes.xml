@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping ext="plist" type="XML" />
+      <mapping ext="xcscheme" type="XML" />
     </extensionMap>
   </component>
 </application>
