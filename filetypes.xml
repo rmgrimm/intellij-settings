@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".editorconfig" type="Ini" />
+      <mapping ext="swift" type="PLAIN_TEXT" />
+      <mapping ext="pbxproj" type="XML" />
       <mapping ext="plist" type="XML" />
       <mapping ext="xcscheme" type="XML" />
     </extensionMap>
