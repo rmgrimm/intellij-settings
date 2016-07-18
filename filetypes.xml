@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping ext="swift" type="PLAIN_TEXT" />
-      <mapping ext="pbxproj" type="XML" />
-      <mapping ext="plist" type="XML" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="xcscheme" type="XML" />
+      <mapping ext="plist" type="XML" />
     </extensionMap>
   </component>
 </application>
