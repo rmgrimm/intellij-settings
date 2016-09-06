@@ -1,0 +1,398 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="localhost">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1469569039000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="1" />
+                <option name="key" value="com.werner.eventnotification:eventnotification-aggregator" />
+                <option name="longName" value="eventnotification-aggregator" />
+                <option name="name" value="eventnotification-aggregator" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="538" />
+                <option name="key" value="com.werner.eventnotification:en-jpa-model" />
+                <option name="longName" value="Event Management (jpa model)" />
+                <option name="name" value="Event Management (jpa model)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="619" />
+                <option name="key" value="com.werner.eventnotification:en-management-model" />
+                <option name="longName" value="Event Management (model)" />
+                <option name="name" value="Event Management (model)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="679" />
+                <option name="key" value="com.werner.eventnotification:en-management-service-client" />
+                <option name="longName" value="Event Management (service client)" />
+                <option name="name" value="Event Management (service client)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="description" value="Parent POM for all Event Notification subprojects that will be deployed&#10;        to web containers. This contains common configuration for things such as&#10;        docker image building, embedded container dependencies, common test&#10;        dependencies, etc." />
+                <option name="id" value="637" />
+                <option name="key" value="com.werner.eventnotification:en-management-service" />
+                <option name="longName" value="Event Management (service)" />
+                <option name="name" value="Event Management (service)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569067000" />
+                <option name="date" value="1473190122000" />
+                <option name="description" value="Parent POM for all Event Notification subprojects that will be deployed&#10;        to web containers. This contains common configuration for things such as&#10;        docker image building, embedded container dependencies, common test&#10;        dependencies, etc." />
+                <option name="id" value="1035" />
+                <option name="key" value="com.werner.eventnotification:en-management-ui" />
+                <option name="longName" value="Event Management (ui)" />
+                <option name="name" value="Event Management (ui)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="526" />
+                <option name="key" value="com.werner.eventnotification:en-spring-aggregator" />
+                <option name="longName" value="Event Notification (aggregator for Spring-based projects)" />
+                <option name="name" value="Event Notification (aggregator for Spring-based projects)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="529" />
+                <option name="key" value="com.werner.eventnotification:en-common-model" />
+                <option name="longName" value="Event Notification (common model)" />
+                <option name="name" value="Event Notification (common model)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="527" />
+                <option name="key" value="com.werner.eventnotification:en-spring-parent" />
+                <option name="longName" value="Event Notification (parent for Spring-based projects)" />
+                <option name="name" value="Event Notification (parent for Spring-based projects)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="description" value="Parent POM for all Event Notification subprojects that will be deployed&#10;        to web containers. This contains common configuration for things such as&#10;        docker image building, embedded container dependencies, common test&#10;        dependencies, etc." />
+                <option name="id" value="528" />
+                <option name="key" value="com.werner.eventnotification:en-web-deployable-parent" />
+                <option name="longName" value="Event Notification (parent for web-deployable subprojects)" />
+                <option name="name" value="Event Notification (parent for web-deployable subprojects)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="534" />
+                <option name="key" value="com.werner.eventnotification:en-common-stagemonitor" />
+                <option name="longName" value="Event Notification Deployable Common (common stagemonitor support)" />
+                <option name="name" value="Event Notification Deployable Common (common stagemonitor support)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569067000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="899" />
+                <option name="key" value="com.werner.eventnotification:event-model" />
+                <option name="longName" value="Event Processing (model)" />
+                <option name="name" value="Event Processing (model)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569067000" />
+                <option name="date" value="1473190122000" />
+                <option name="description" value="Parent POM for all Event Notification subprojects that will be deployed&#10;        to web containers. This contains common configuration for things such as&#10;        docker image building, embedded container dependencies, common test&#10;        dependencies, etc." />
+                <option name="id" value="912" />
+                <option name="key" value="com.werner.eventnotification:en-receiver-service" />
+                <option name="longName" value="Event Processing (receiver service)" />
+                <option name="name" value="Event Processing (receiver service)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="687" />
+                <option name="key" value="com.werner.eventnotification:en-subscription-model" />
+                <option name="longName" value="Event Subscription (model)" />
+                <option name="name" value="Event Subscription (model)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="739" />
+                <option name="key" value="com.werner.eventnotification:en-subscription-service-client" />
+                <option name="longName" value="Event Subscription (service client)" />
+                <option name="name" value="Event Subscription (service client)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="description" value="Parent POM for all Event Notification subprojects that will be deployed&#10;        to web containers. This contains common configuration for things such as&#10;        docker image building, embedded container dependencies, common test&#10;        dependencies, etc." />
+                <option name="id" value="700" />
+                <option name="key" value="com.werner.eventnotification:en-subscription-service" />
+                <option name="longName" value="Event Subscription (service)" />
+                <option name="name" value="Event Subscription (service)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569067000" />
+                <option name="date" value="1473190122000" />
+                <option name="description" value="Parent POM for all Event Notification subprojects that will be deployed&#10;        to web containers. This contains common configuration for things such as&#10;        docker image building, embedded container dependencies, common test&#10;        dependencies, etc." />
+                <option name="id" value="1020" />
+                <option name="key" value="com.werner.eventnotification:en-gcm-ui" />
+                <option name="longName" value="GCM notification action (UI)" />
+                <option name="name" value="GCM notification action (UI)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="description" value="Parent POM for all Event Notification subprojects that will be deployed&#10;        to web containers. This contains common configuration for things such as&#10;        docker image building, embedded container dependencies, common test&#10;        dependencies, etc." />
+                <option name="id" value="824" />
+                <option name="key" value="com.werner.eventnotification:en-gcm-management-service" />
+                <option name="longName" value="GCM notification action (management service)" />
+                <option name="name" value="GCM notification action (management service)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="790" />
+                <option name="key" value="com.werner.eventnotification:en-gcm-model" />
+                <option name="longName" value="GCM notification action (model)" />
+                <option name="name" value="GCM notification action (model)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472950275000" />
+                <option name="date" value="1473190122000" />
+                <option name="description" value="Parent POM for all Event Notification subprojects that will be deployed&#10;        to web containers. This contains common configuration for things such as&#10;        docker image building, embedded container dependencies, common test&#10;        dependencies, etc." />
+                <option name="id" value="1309" />
+                <option name="key" value="com.werner.eventnotification:en-gcm-delivery-service" />
+                <option name="longName" value="Notification Delivery (GCM; service)" />
+                <option name="name" value="Notification Delivery (GCM; service)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="814" />
+                <option name="key" value="com.werner.eventnotification:en-gcm-client" />
+                <option name="longName" value="Notification Delivery (Google Cloud Messaging common client)" />
+                <option name="name" value="Notification Delivery (Google Cloud Messaging common client)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="description" value="Parent POM for all Event Notification subprojects that will be deployed&#10;        to web containers. This contains common configuration for things such as&#10;        docker image building, embedded container dependencies, common test&#10;        dependencies, etc." />
+                <option name="id" value="767" />
+                <option name="key" value="com.werner.eventnotification:en-delivery-via-twilio-service" />
+                <option name="longName" value="Notification Delivery (SMS via Twilio; service)" />
+                <option name="name" value="Notification Delivery (SMS via Twilio; service)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="746" />
+                <option name="key" value="com.werner.eventnotification:en-delivery-action-model" />
+                <option name="longName" value="Notification Delivery (common model)" />
+                <option name="name" value="Notification Delivery (common model)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="description" value="Parent POM for all Event Notification subprojects that will be deployed&#10;        to web containers. This contains common configuration for things such as&#10;        docker image building, embedded container dependencies, common test&#10;        dependencies, etc." />
+                <option name="id" value="756" />
+                <option name="key" value="com.werner.eventnotification:en-delivery-via-email-service" />
+                <option name="longName" value="Notification Delivery (email; service)" />
+                <option name="name" value="Notification Delivery (email; service)" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569067000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="1066" />
+                <option name="key" value="com.werner.eventnotification:eventNotificationApp" />
+                <option name="longName" value="eventNotificationApp" />
+                <option name="name" value="eventNotificationApp" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="348" />
+                <option name="key" value="com.werner.eventnotification:eventNotificationScheduler" />
+                <option name="longName" value="eventNotificationScheduler" />
+                <option name="name" value="eventNotificationScheduler" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="419" />
+                <option name="key" value="com.werner.eventnotification:eventNotificationWebApp" />
+                <option name="longName" value="eventNotificationWebApp" />
+                <option name="name" value="eventNotificationWebApp" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="351" />
+                <option name="key" value="com.werner.eventnotification:eventNotificationWebServiceApp" />
+                <option name="longName" value="eventNotificationWebServiceApp" />
+                <option name="name" value="eventNotificationWebServiceApp" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="2" />
+                <option name="key" value="com.werner.eventnotification:eventnotification" />
+                <option name="longName" value="eventnotification" />
+                <option name="name" value="eventnotification" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="3" />
+                <option name="key" value="com.werner.eventnotification:eventnotification-common" />
+                <option name="longName" value="eventnotification-common" />
+                <option name="name" value="eventnotification-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="289" />
+                <option name="key" value="com.werner.eventnotification:eventnotification-eventNotify" />
+                <option name="longName" value="eventnotification-eventNotify" />
+                <option name="name" value="eventnotification-eventNotify" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="320" />
+                <option name="key" value="com.werner.eventnotification:eventnotification-eventPublish" />
+                <option name="longName" value="eventnotification-eventPublish" />
+                <option name="name" value="eventnotification-eventPublish" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="117" />
+                <option name="key" value="com.werner.eventnotification:eventnotification-model" />
+                <option name="longName" value="eventnotification-model" />
+                <option name="name" value="eventnotification-model" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469569066000" />
+                <option name="date" value="1473190122000" />
+                <option name="id" value="243" />
+                <option name="key" value="com.werner.eventnotification:eventnotification-persistence" />
+                <option name="longName" value="eventnotification-persistence" />
+                <option name="name" value="eventnotification-persistence" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2016.09.01" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

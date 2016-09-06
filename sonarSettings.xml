@@ -1,0 +1,25 @@
+<application>
+  <component name="localAnalysisScripts">
+    <option name="beans">
+      <list>
+        <LocalAnalysisScript>
+          <option name="name" value="Preview (localhost)" />
+          <option name="pathToSonarReport" value="$WORKING_DIR/target/sonar/sonar-report.json" />
+          <option name="sourceCode" value="D:/applications/Maven/apache-maven-3.2.1/bin/mvn.bat sonar:sonar -DskipTests=true -Dsonar.analysis.mode=preview -Dsonar.report.export.path=sonar-report.json -Dsonar.host.url=http://localhost:9000" />
+        </LocalAnalysisScript>
+      </list>
+    </option>
+  </component>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="anonymous" value="true" />
+          <option name="hostUrl" value="http://localhost:9000/" />
+          <option name="name" value="localhost" />
+          <option name="user" value="" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>
