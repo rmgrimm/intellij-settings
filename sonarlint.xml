@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <password>dfcbdfcedfc7dfc3dfc4</password>
+          <option name="hostUrl" value="http://wern17775.wernerds.net:9000" />
+          <option name="login" value="admin" />
+          <option name="name" value="WERN17775" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
