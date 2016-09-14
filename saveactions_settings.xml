@@ -9,6 +9,7 @@
     </option>
     <option name="exclusions">
       <set>
+        <option value=".*\.scala" />
         <option value=".*\.xml" />
       </set>
     </option>
