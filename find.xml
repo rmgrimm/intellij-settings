@@ -8,7 +8,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Hibernate" />
-    <option name="FILE_MASK" value="*UnitTest.java" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -30,13 +30,15 @@
       <mask>pom.</mask>
       <mask>pom.xml</mask>
       <mask>*</mask>
-      <mask>*.java</mask>
-      <mask>*U.java</mask>
-      <mask>*Uni.java</mask>
-      <mask>*Unit.java</mask>
-      <mask>*UnitT.java</mask>
-      <mask>*UnitTe.java</mask>
       <mask>*UnitTest.java</mask>
+      <mask>*UnitTes.java</mask>
+      <mask>*UnitTe.java</mask>
+      <mask>*UnitT.java</mask>
+      <mask>*Unit.java</mask>
+      <mask>*Uni.java</mask>
+      <mask>*Un.java</mask>
+      <mask>*U.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
