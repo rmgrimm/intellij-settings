@@ -8,17 +8,13 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Hibernate" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>application-docker.yml</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
       <mask>*R</mask>
       <mask>*Reposi</mask>
@@ -26,10 +22,6 @@
       <mask>*Repository</mask>
       <mask>*Repository.</mask>
       <mask>*Repository.java</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
-      <mask>*</mask>
       <mask>*UnitTest.java</mask>
       <mask>*UnitTes.java</mask>
       <mask>*UnitTe.java</mask>
@@ -39,6 +31,15 @@
       <mask>*Un.java</mask>
       <mask>*U.java</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
