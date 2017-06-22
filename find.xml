@@ -1,25 +1,41 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="Hibernate" />
+    <option name="defaultScopeName" value="Hibernate" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="Hibernate" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>application-docker.yml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*R</mask>
+      <mask>*Reposi</mask>
+      <mask>*Repository*</mask>
+      <mask>*Repository</mask>
+      <mask>*Repository.</mask>
+      <mask>*Repository.java</mask>
+      <mask>*UnitTest.java</mask>
+      <mask>*UnitTes.java</mask>
+      <mask>*UnitTe.java</mask>
+      <mask>*UnitT.java</mask>
+      <mask>*Unit.java</mask>
+      <mask>*Uni.java</mask>
+      <mask>*Un.java</mask>
+      <mask>*U.java</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>

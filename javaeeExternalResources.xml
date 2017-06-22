@@ -1,6 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/xsd/assembly-2.0.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/a7faf726_assembly-2.0.0.xsd" />
     <resource url="http://www.apple.com/DTDs/PropertyList-1.0.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/c3961c84_PropertyList-1.0.dtd" />
+    <resource url="http://www.werner.com/eventNotification/v1" location="$USER_HOME$/Projects/event-notification" />
     <ignored-resource url="antlib:org.jacoco.ant" />
     <ignored-resource url="http://schemas.android.com/apk/res/android" />
   </component>
