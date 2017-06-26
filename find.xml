@@ -8,13 +8,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="package.json" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>application-docker.yml</mask>
-      <mask>*.xml</mask>
       <mask>*R</mask>
       <mask>*Reposi</mask>
       <mask>*Repository*</mask>
@@ -39,6 +34,12 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>pac</mask>
+      <mask>packa</mask>
+      <mask>package</mask>
+      <mask>package.</mask>
+      <mask>package.j</mask>
+      <mask>package.json</mask>
     </recentFileMasks>
   </component>
 </application>
