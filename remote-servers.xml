@@ -2,8 +2,8 @@
   <component name="RemoteServers">
     <remote-server name="Local Docker Machine (default)" type="docker">
       <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
-        <option name="machine" value="default" />
       </configuration>
     </remote-server>
   </component>
