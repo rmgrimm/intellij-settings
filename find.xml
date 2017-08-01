@@ -7,12 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Repository*" />
     <recentFileMasks>
-      <mask>*R</mask>
-      <mask>*Reposi</mask>
-      <mask>*Repository*</mask>
-      <mask>*Repository</mask>
-      <mask>*Repository.</mask>
       <mask>*Repository.java</mask>
       <mask>*UnitTest.java</mask>
       <mask>*UnitTes.java</mask>
@@ -27,7 +23,6 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
@@ -38,6 +33,12 @@
       <mask>package.</mask>
       <mask>package.j</mask>
       <mask>package.json</mask>
+      <mask>*</mask>
+      <mask>*R</mask>
+      <mask>*Repo</mask>
+      <mask>*Reposi</mask>
+      <mask>*Repository</mask>
+      <mask>*Repository*</mask>
     </recentFileMasks>
   </component>
 </application>
