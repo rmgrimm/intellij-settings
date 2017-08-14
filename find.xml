@@ -1,15 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Repository.java</mask>
-      <mask>*UnitTest.java</mask>
       <mask>*UnitTes.java</mask>
       <mask>*UnitTe.java</mask>
       <mask>*UnitT.java</mask>
@@ -21,7 +19,6 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
@@ -32,12 +29,15 @@
       <mask>package.</mask>
       <mask>package.j</mask>
       <mask>package.json</mask>
-      <mask>*</mask>
       <mask>*R</mask>
       <mask>*Repo</mask>
       <mask>*Reposi</mask>
       <mask>*Repository</mask>
       <mask>*Repository*</mask>
+      <mask>*</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
+      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>
