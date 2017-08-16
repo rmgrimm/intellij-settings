@@ -3,21 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*UnitTes.java</mask>
-      <mask>*UnitTe.java</mask>
-      <mask>*UnitT.java</mask>
-      <mask>*Unit.java</mask>
-      <mask>*Uni.java</mask>
-      <mask>*Un.java</mask>
-      <mask>*U.java</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>p</mask>
       <mask>pom</mask>
@@ -38,6 +26,16 @@
       <mask>*.y</mask>
       <mask>*.yml</mask>
       <mask>*.</mask>
+      <mask>a</mask>
+      <mask>ap</mask>
+      <mask>app</mask>
+      <mask>appli</mask>
+      <mask>applica</mask>
+      <mask>application</mask>
+      <mask>application.</mask>
+      <mask>application.y</mask>
+      <mask>application.ym</mask>
+      <mask>application.yml</mask>
     </recentFileMasks>
   </component>
 </application>
