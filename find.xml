@@ -5,13 +5,10 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="application.yml" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.j</mask>
       <mask>p</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
       <mask>pac</mask>
       <mask>packa</mask>
       <mask>package</mask>
@@ -37,6 +34,9 @@
       <mask>application.y</mask>
       <mask>application.ym</mask>
       <mask>application.yml</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
