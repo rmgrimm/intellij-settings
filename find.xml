@@ -1,44 +1,42 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*R</mask>
-      <mask>*Reposi</mask>
-      <mask>*Repository*</mask>
-      <mask>*Repository</mask>
-      <mask>*Repository.</mask>
-      <mask>*Repository.java</mask>
-      <mask>*UnitTest.java</mask>
-      <mask>*UnitTes.java</mask>
-      <mask>*UnitTe.java</mask>
-      <mask>*UnitT.java</mask>
-      <mask>*Unit.java</mask>
-      <mask>*Uni.java</mask>
-      <mask>*Un.java</mask>
-      <mask>*U.java</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>p</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
       <mask>pac</mask>
       <mask>packa</mask>
       <mask>package</mask>
       <mask>package.</mask>
       <mask>package.j</mask>
       <mask>package.json</mask>
+      <mask>*R</mask>
+      <mask>*Repo</mask>
+      <mask>*Reposi</mask>
+      <mask>*Repository</mask>
+      <mask>*Repository*</mask>
+      <mask>*</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
+      <mask>*.</mask>
+      <mask>a</mask>
+      <mask>ap</mask>
+      <mask>app</mask>
+      <mask>appli</mask>
+      <mask>applica</mask>
+      <mask>application</mask>
+      <mask>application.</mask>
+      <mask>application.y</mask>
+      <mask>application.ym</mask>
+      <mask>application.yml</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
