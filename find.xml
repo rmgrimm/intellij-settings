@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../springService/receiver-service/src/test/gatling/manual-simulations/ProdRuns.scala - [en-receiver-service]'" />
+    <option name="defaultScopeName" value="File '.../springService/receiver-service/src/test/gatling/manual-simulations/ProdRuns.scala - [en-receiver-service]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../springService/receiver-service/src/test/gatling/manual-simulations/ProdRuns.scala - [en-receiver-service]'" />
     <recentFileMasks>
       <mask>*.j</mask>
       <mask>p</mask>
