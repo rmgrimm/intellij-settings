@@ -1,13 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile-with-xrebel" type="Dockerfile" />
       <mapping pattern="Dockerfile-with-stagemonitor" type="Dockerfile" />
+      <mapping pattern="Dockerfile-with-xrebel" type="Dockerfile" />
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="swift" type="PLAIN_TEXT" />
-      <mapping ext="scala" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
       <mapping ext="xcscheme" type="XML" />
     </extensionMap>
