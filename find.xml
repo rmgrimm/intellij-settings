@@ -3,42 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>p</mask>
-      <mask>pac</mask>
-      <mask>packa</mask>
-      <mask>package</mask>
-      <mask>package.</mask>
-      <mask>package.j</mask>
-      <mask>package.json</mask>
-      <mask>*R</mask>
-      <mask>*Repo</mask>
-      <mask>*Reposi</mask>
-      <mask>*Repository</mask>
-      <mask>*Repository*</mask>
-      <mask>*</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
-      <mask>*.</mask>
-      <mask>a</mask>
-      <mask>ap</mask>
-      <mask>app</mask>
-      <mask>appli</mask>
-      <mask>applica</mask>
-      <mask>application</mask>
-      <mask>application.</mask>
-      <mask>application.y</mask>
-      <mask>application.ym</mask>
-      <mask>application.yml</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
-    </recentFileMasks>
   </component>
 </application>
